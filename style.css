@@ -1,0 +1,39 @@
+body {
+	background-color: green;
+}
+
+h1 {
+	color: violet;
+}
+
+p {
+	color: white;
+}
+
+a {
+	color: fuchsia;
+}
+
+a:visited {
+	color: violet;
+}
+
+.imgframe {
+	display: inline-block;
+	background-color: yellow;
+	border: 4px dashed gold;
+}
+
+.imgframe img {
+	display: block;
+}
+
+iframe {
+	width: 100%;
+	max-width: 960px;
+	aspect-ratio: 16/9;
+}
+
+.files {
+	color: cyan;
+}
